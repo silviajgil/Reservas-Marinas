@@ -312,7 +312,7 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: 'UN OCÉANO AMENAZADO',
-            image: './assets/Oceano_amenazado.png',
+            image: 'https://postimg.cc/8jwcQYTG',
             description: 'El océano sigue sufriendo numerosas amenazas derivadas en gran medida de prácticas no sostenibles, que causan profundos impactos en el medio marino, como la acidificación, la destrucción de hábitats, la pérdida de biodiversidad y la contaminación marina, a los que se suman los efectos del cambio climático . Alrededor del 66% de la superficie marina ha sido alterada de forma significativa por las actividades humanas y casi 33% de los corales de arrecife y más de un tercio de todos los mamíferos marinos están amenazados, mientras la contaminación por plásticos se ha multiplicado por diez desde 1980.',
             location: {
                 center: [-56.41246, 35.28795 ],
@@ -331,7 +331,7 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: 'ESPAÑA AVANZA HACIA EL 30% DE PROTECCIÓN DEL MAR EN 2030',
-            image: '/assets/ODS-14.png',
+            image: 'https://postimg.cc/V0gfwSQg',
             description: 'Frente a estas amenazas globales, las áreas marinas protegidas constituyen un instrumento para la conservación de la biodiversidad y el uso sostenible de los ecosistemas marinos. La nueva Estrategia de Biodiversidad de la Unión Europea establece como meta alcanzar el 30% de superficie marina protegida en 2030. Objetivo compartido en la Declaración de Emergencia Climática del Gobierno de España. La ONU, a través de los Objetivos de Desarrollo Sostenible (ODS), también insta a los países a avanzar en la ampliación de las áreas marinas protegidas. Recientemente España ha anunciado que alcanzará un 25,7% de superficie de áreas marinas protegidas, avanzando hacia el objetivo del 30% en 2030. Para ello, se incorporarán a la Red Natura 2000 cinco nuevas áreas: los montes submarinos del canal de Mallorca; los del Seco de Palos; los cañones de Capbretón; los bancos del Mar de Alborán y el espacio marino de la Costa Central Catalana. Asimismo, se impulsará la declaración del Parque Nacional del Mar de las Calmas y el área de cría del cachalote en el norte de Menorca.',
             location: {
                 center: [8.08266, 44.97949],
@@ -350,7 +350,7 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: 'UN LARGO CAMINO POR RECORRER',
-            image: 'assets/Grafico.png',
+            image: 'https://postimg.cc/0zFJF4CQ',
             description: 'Pese a todos los esfuerzos de los últimos años, España se situaba a finales de 2024 en un vergonzoso 40º puesto con un 12.8% de nuestras aguas protegidas. Muy por debajo de la media europea (15,46%) y de la mundial (14,10%). Son muchas las iniciativas en marcha para mejorar estas cifras, pero la realidad es que aún nos queda mucho camino que recorrer. Es urgente comenzar a pensar en verde para que nuestro planeta siga siendo azul.',
             location: {
                 center: [21.12199, 22.52747],
